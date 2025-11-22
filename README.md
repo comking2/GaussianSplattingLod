@@ -21,7 +21,7 @@
 
 - `MultiObjectSpawner.cs` - 자동 LOD 설정을 포함한 그리드 기반 오브젝트 생성
 - `SimpleSwapper.cs` - 간단한 메시/가우시안 스플랫 토글 기능
-
+- `GSPlyExporter.cs` - PLY 파일 생성용 에디터
 ## 사용법
 
 1. 전역 LOD 제어를 위해 씬에 `LODManager` 추가
