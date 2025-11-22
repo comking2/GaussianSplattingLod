@@ -38,3 +38,6 @@
 
 - Unity with HDRP
 - 가우시안 스플래팅 패키지
+
+## Reference
+- https://github.com/aras-p/UnityGaussianSplatting - 가우시안 스플래팅 렌더
